@@ -121,7 +121,9 @@ The system successfully automates multiple personal and professional tasks using
 B.Tech CSE (AI & ML)
 
 📧 Email: [ydvryo@gmail.com](mailto:ydvryo@gmail.com)
+
 🔗 LinkedIn: https://www.linkedin.com/in/suryansh-dhama-7217a428b
+
 💻 GitHub: https://github.com/Suryansh-Dhama
 
 ---
